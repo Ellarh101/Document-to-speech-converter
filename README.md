@@ -66,8 +66,8 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 **Ayomide** - [github](https://github.com/AYOMIDE33-DEEP)
 
 💌 Contact
-💼 [LinkedIn](https://www.linkedin.com/in/kocknet-emmanuella-86aa69356/)  
-📧 [Email](mailto:kocknetemmanuella55@gmail.com)  
-🐙 [GitHub](https://github.com/Ellarh101/)
+    💼 [LinkedIn](https://www.linkedin.com/in/kocknet-emmanuella-86aa69356/)  
+    📧 [Email](mailto:kocknetemmanuella55@gmail.com)  
+    🐙 [GitHub](https://github.com/Ellarh101/)
 
 💡 “Data is more than numbers; it’s a voice waiting to be heard.”
